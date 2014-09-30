@@ -12,7 +12,7 @@ Welcome to Hack Week! :)
 
 ##Hack on it
 
-In three different terminal sessions run:
+In two different terminal sessions run:
 
  - `npm start`
  - `webpack -w`
