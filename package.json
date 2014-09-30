@@ -4,7 +4,7 @@
   "description": "",
   "repository": "",
   "scripts": {
-    "start": "node --harmony server/js/app.js"
+    "start": "node --harmony server/server.js"
   },
   "author": "",
   "license": "MIT",
@@ -17,5 +17,10 @@
   },
   "dependencies": {
     "react": "^0.11.2"
+    "koa": "^0.12.2",
+    "koa-body": "^0.3.0",
+    "koa-static": "^1.4.7",
+    "koa-router": "^3.4.0",
+    "bluebird": "^2.3.4"
   }
 }
