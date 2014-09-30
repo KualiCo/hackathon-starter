@@ -2,7 +2,7 @@
 'use strict';
 
 module.exports = {
-  entry: './client/views/routes.jsx',
+  entry: './client/main.jsx',
   output: {
     path: './client',
     filename: 'bundle.js'
